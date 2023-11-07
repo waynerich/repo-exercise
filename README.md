@@ -1,2 +1,1 @@
-# repo-exercise
-Meta Version Control - Lab: Using a repository
+Adding this line of text to test out update on branch merging
